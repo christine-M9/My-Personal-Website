@@ -1,0 +1,16 @@
+.tee{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+}
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: x-large;
+    text-decoration: none;
+}
