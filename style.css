@@ -32,7 +32,7 @@ img{
     margin-top: 100px;
 }
 #cv{
-    background-color:rgb(73, 237, 161);
+    background-color:rgb(224, 135, 45)
     border-radius: 20px;
     padding: 20px;
     position: absolute;
@@ -60,7 +60,7 @@ input{
 }
 .h2{
     position: absolute;
-    top: 80px;
+    top: 50px;
     left: auto;
 }
 body{
@@ -73,4 +73,7 @@ h2{
 }
 ul{
 
+}
+span{
+    color: brown;
 }
