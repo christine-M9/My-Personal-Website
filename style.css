@@ -1,5 +1,5 @@
 .tee{
-    background-color: aqua;
+    background-color:aliceblue;
     display: flex;
     justify-content: center;
     margin-left: 450px;
@@ -64,7 +64,7 @@ input{
     left: auto;
 }
 body{
-    background-image: url(/images/pexels-pixabay-371589.jpg);
+    background-image: url(/images/pexels-jess-bailey-designs-1157804.jpg);
 }
 h2{
     position: absolute;
@@ -76,4 +76,10 @@ ul{
 }
 span{
     color: brown;
+}
+p{
+    font-style: italic;
+    font-size:x-large;
+    color: blueviolet;
+    margin-bottom: 50px;
 }
