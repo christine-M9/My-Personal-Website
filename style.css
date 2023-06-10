@@ -90,11 +90,14 @@ p{
 ul{
     font-size: x-large;
     margin-left: 200px;
+    position: absolute;
+    top: 100px;
 }
 #ms{ 
     position: absolute;
     font-family: monospace;
     font-style: normal;
     left: 50px;
-    
+    top: 750px;
 }
+
