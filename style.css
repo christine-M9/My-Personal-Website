@@ -36,12 +36,12 @@ img{
 
 }
 #cv{
-    background-color:rgb(224, 135, 45)
+    background-color:rgb(226, 244, 250);
     border-radius: 20px;
-    padding: 20px;
+    padding: 10px;
     position: absolute;
-    top: 600px;
-    left: 80px;
+    top: 630px;
+    left: 150px;
 }
 .form{
     position: absolute;
